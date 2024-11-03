@@ -15,4 +15,11 @@ Upute za instalaciju.
 
 #### Detalji instalacije
 Detaljan opis svakog koraka.
+---------------------------------------------
+
+#### feature1 grana
+Dodavanje feature1 grane
+
+#### development grana
+Dodavanje development grane
 
